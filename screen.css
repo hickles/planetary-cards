@@ -3,10 +3,9 @@
 .nav {
     width: 250px;
     height: 100%;
-    padding-top: 20px;
+    padding-top: 100px;
 }
 
 .nav a {
     font-size: 18px;
-    color: white;
 }

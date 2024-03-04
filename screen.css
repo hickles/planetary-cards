@@ -1,7 +1,12 @@
 /* Add screen styles below */
 
 .nav {
-    width: 300px; 
-    float: left; 
-    position: absolute;
+    width: 250px;
+    height: 100%;
+    padding-top: 20px;
+}
+
+.nav a {
+    font-size: 18px;
+    color: white;
 }

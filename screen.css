@@ -7,6 +7,11 @@ body {
 
 h1 {
   margin-left: 222px;
+  font-family: helvetica; 
+}
+
+h2,p {
+  font-family: helvetica;
 }
 
 nav {

@@ -10,7 +10,12 @@ h1 {
   font-family: helvetica; 
 }
 
-h2, p {
+h2 {
+  margin-left: 222px;
+  font-family: helvetica; 
+}
+
+p {
   font-family: helvetica;
   font-weight: normal;
 }
